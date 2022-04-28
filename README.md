@@ -3,8 +3,8 @@
 A basic cross-platform mobile app taking YOU, the prospective pet owner, through the odd, strange, adorable, and sometimes terrifying cats that the internet has to offer.
 
 This was built using Flutter/Dart and CATAAS (Cat as a service)
-https://docs.flutter.dev/
-https://cataas.com/#/
+ - https://docs.flutter.dev/
+ - https://cataas.com/#/
 
 ![App Preview](https://media.giphy.com/media/LCULdnnxKefnzst8jK/giphy.gif)
 
