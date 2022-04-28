@@ -1,16 +1,23 @@
-# cat_app
+# Adoptr
 
-A new Flutter project.
+A basic cross-platform mobile app taking YOU, the prospective pet owner, through the odd, strange, adorable, and sometimes terrifying cats that the internet has to offer.
 
-## Getting Started
+This was built using Flutter/Dart and CATAAS (Cat as a service)
+https://docs.flutter.dev/
+https://cataas.com/#/
 
-This project is a starting point for a Flutter application.
+![App Preview](https://media.giphy.com/media/LCULdnnxKefnzst8jK/giphy.gif)
 
-A few resources to get you started if this is your first Flutter project:
+### This app was meant to show knowledge of:
+ - API data retrieval
+ - Simple UI design
+ - Persistence and CRUD operations
+ - State management
+ - MVC architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### To Install
+This is built as a non-production application, so there are several steps in order to see this run:
+ - Download Flutter: https://docs.flutter.dev/get-started/install
+ - Download XCode, run an iOS simulator
+ - Clone this repository
+ - Inside the repo's directory, run `flutter build ios`
